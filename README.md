@@ -1,6 +1,6 @@
 👋 Hi, I’m Yaider.
 
-I'm and i´m a junior web developer, passionate about technology, I constantly seek to convert my ideas and/or needs into programming projects 
+I'm a junior web developer, passionate about technology, I constantly seek to convert my ideas and/or needs into programming projects 
 and learn new things to improve the quality of my developments.
 Although I am currently doing web development, I have also developed applications. desktop and console applications.
 
