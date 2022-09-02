@@ -1,6 +1,4 @@
-👋 Hi, I’m Yaider.
-
-I am a Software Developer, who constantly seeks to improve my development skills by converting ideas and/or needs of my own or those of my environment into programming projects, I am characterized by being a curious person, I like to investigate and go beyond the details of a project. problem or situation, to find an optimal and effective solution, all this in order to grow both professionally and personally.
+Desarrollador junior con mas de un año de experiencia en el desarrollo web tiempo en el cual a través del desarrollo y mantenimiento de sitios web he ido adquiriendo y profundizando en diferentes tecnologías y lenguajes de programación tanto frontend como backend. Me caracterizo por mi capacidad de investigación, aprendizaje autodidacta y constancia en la búsqueda de ampliar y mejorar mis habilidades como desarrollador.  
 
 <!---
 yaidercc/yaidercc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
