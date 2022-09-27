@@ -1,10 +1,10 @@
 <p align="center">
   
 ![banner](https://user-images.githubusercontent.com/55888825/192405040-e49c29f3-1de4-4375-9624-54c8af1edb20.png)
-  <div style="text-align:center">
+  <p style="text-align:center">
   <a href="#" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="nodejs" width="40" height="40"/> </a>  
   <a href="#" target="_blank"> <img src="https://seeklogo.com/images/D/dribbble-logo-143FF96D65-seeklogo.com.png" alt="nodejs" width="40" height="40"/> </a>  
-  </div>
+  </p>
 </p>
 
 
