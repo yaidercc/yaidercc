@@ -1,6 +1,6 @@
 <p align="center">
 
- ![Web 1920 – 2](https://user-images.githubusercontent.com/55888825/192403185-cf49128a-3b73-4f82-917a-a3100a7a3475.png)
+ ![Web 1920 – 2](https://user-images.githubusercontent.com/55888825/192403371-a4017bf2-30e2-4cf0-8f68-942e31bea7e5.png)
   
 </p>
 
