@@ -5,23 +5,19 @@
 </p>
 
 
-# Hi guys 👋  I'm Ashfaque Ali
+# Hi 👋 I'm Yaider.
 
-
-Software developer with more than a year of experience in the development of websites, during which time through the development and
+I am a software developer with over a year of experience developing websites, during which time through the development and
 maintenance of different websites has acquired knowledge and deepened in different technologies and languages
-both frontend and backend. I have a good research capacity which has allowed me to solve various problem situations and improve
+both frontend and backend. I have a good research capacity which has allowed me to solve various problematic situations and improve
 the quality of my developments, adding to this my curiosity and constant search for improvement both personally and professionally.
 
 
 
 - 🔭 At that movement I am doing BCA (Bachelors of Computer Application)
 - 🌱 I’m currently learning React JS
-- 👯 open source contributor
-- 💬 Ask me about **MongoDB** **Express** **React JS** **Node JS**
-- 📫 How to reach me: aliashfak178@gmail.com
-- 😄 Pronouns: Pronouns: I, you, he, it, they, this
-- ⚡  Fun fact: I spend almost 5-6 hours Learning everyday
+- 💬 Ask me about **Javascript** **HTML** **CSS** **GIT**
+- 📫 How to reach me: yaiderc19@gmail.com
 
 
 <h3 align="left">Languages and Tools:</h3>
