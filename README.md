@@ -17,7 +17,7 @@ the quality of my developments, adding to this my curiosity and constant search 
 - 🔭 At that movement I am doing BCA (Bachelors of Computer Application)
 - 🌱 I’m currently learning React JS And Node Js
 - 📣 I am a native Spanish speaker, and I am learning English on my own
-- 💬 Ask me about **Javascript** **HTML** **CSS** **GIT**
+- 💬 Ask me about **Javascript** **HTML**, **CSS**, **GIT**
 - 📫 How to reach me: yaiderc19@gmail.com
 
 
