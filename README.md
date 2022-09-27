@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+  <h1>C<sup>2</sup></h1>
   
 </p>
 
@@ -8,9 +8,9 @@
 
 
 Software developer with more than a year of experience in the development of websites, during which time through the development and
-maintenance of different sites I have been acquiring knowledge and deepening in different technologies and programming languages
-both frontend and backend. I am characterized by my ability to investigate to solve problem situations and optimize my
-developments, adding to this my curiosity and constant search for improvement both personally and professionally.
+maintenance of different websites has acquired knowledge and deepened in different technologies and languages
+both frontend and backend. I have a good research capacity which has allowed me to solve various problem situations and improve
+the quality of my developments, adding to this my curiosity and constant search for improvement both personally and professionally.
 
 
 
