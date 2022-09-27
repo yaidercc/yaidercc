@@ -43,8 +43,9 @@ the quality of my developments, adding to this my curiosity and constant search 
 <a href="https://www.php.net" target="_blank"> <img src="https://cdn-www.infobip.com/wp-content/uploads/2020/10/14135942/oracle-logo-360x200.png"
  alt="php" width="40" height="40"/> </a> 
   
+  <a href="https://www.php.net" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/528/528260.png" alt="php" width="40" height="40"/> </a> 
 </p>
-
+https://cdn-icons-png.flaticon.com/512/528/528260.png
 ----
 Credit: [aliashfak178](https://github.com/aliashfak178)
 
