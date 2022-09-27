@@ -1,10 +1,6 @@
 <p align="center">
   
 ![banner](https://user-images.githubusercontent.com/55888825/192405040-e49c29f3-1de4-4375-9624-54c8af1edb20.png)
-  <p style="text-align:center">
-  <a href="#" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="nodejs" width="40" height="40"/> </a>  
-  <a href="#" target="_blank"> <img src="https://seeklogo.com/images/D/dribbble-logo-143FF96D65-seeklogo.com.png" alt="nodejs" width="40" height="40"/> </a>  
-  </p>
 </p>
 
 
@@ -49,8 +45,9 @@ the quality of my developments, adding to this my curiosity and constant search 
   <a href="#" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/528/528260.png" alt="php" width="40" height="40"/> </a> 
   <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/602px-Bootstrap_logo.svg.png" alt="php" width="40" height="40"/> </a> 
 </p>
-
-
+<h3 align="left">Social networks:</h3>
+ <a href="#" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="nodejs" width="40" height="40"/> </a>  
+ <a href="#" target="_blank"> <img src="https://seeklogo.com/images/D/dribbble-logo-143FF96D65-seeklogo.com.png" alt="nodejs" width="40" height="40"/> </a>  
 ----
 Credit: [aliashfak178](https://github.com/aliashfak178)
 
