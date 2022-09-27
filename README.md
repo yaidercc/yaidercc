@@ -1,8 +1,9 @@
 <p align="center">
 
-  <h1>C<sup>2</sup></h1>
+ ![Web 1920 – 2](https://user-images.githubusercontent.com/55888825/192403185-cf49128a-3b73-4f82-917a-a3100a7a3475.png)
   
 </p>
+
 
 # Hi guys 👋  I'm Ashfaque Ali
 
