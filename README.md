@@ -40,7 +40,7 @@ the quality of my developments, adding to this my curiosity and constant search 
 </a>                       
 <a href="https://sass-lang.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 <a href="https://www.php.net" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-<a href="https://www.php.net" target="_blank"> <img src=![oracle-icon](https://user-images.githubusercontent.com/55888825/192407129-01d60219-a038-4ffc-96b5-eb1582d78d2c.png)
+<a href="https://www.php.net" target="_blank"> <img src="https://cdn-www.infobip.com/wp-content/uploads/2020/10/14135942/oracle-logo-360x200.png"
  alt="php" width="40" height="40"/> </a> 
   
 </p>
