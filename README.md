@@ -5,17 +5,14 @@
 </p>
 
 
-# Hi 👋 I'm Yaider.
+# Hola 👋 Soy Yaider.
 
-I am a software developer with over a year of experience developing websites, during which time through the development and
-maintenance of different websites has acquired knowledge and deepened in different technologies and languages
-both frontend and backend. I have a good research capacity which has allowed me to solve various problematic situations and improve
-the quality of my developments, adding to this my curiosity and constant search for improvement both personally and professionally.
+Desarrollador de software con mas de un año de experiencia en el desarrollo de sitios web, tiempo en el cual a través del desarrollo y mantenimiento de distintos sitios web he adquirido conocimientos y profundizado en diferentes tecnologías y lenguajes  tanto frontend como backend. Cuento con una buena capacidad de investigacion la cual me ha permitido resolver diversas situaciones problemas y mejorar la calidad de mis desarrollos, añadiendole a esto mi curiosidad y constante busqueda de mejora tanto en el ambito personal como profesional.
 
-- 🌱 I’m currently learning React JS And Node Js.
-- 📣 I am a native Spanish speaker, and I am learning English on my own.
-- 💬 Ask me about **Javascript**, **HTML**, **CSS**, **GIT**.
-- 📫 How to reach me: yaiderc19@gmail.com.
+
+- 🌱 Actualmente estoy aprendiendo React JS y Node Js
+- 💬 Pregúntame sobre **Javascript**, **HTML**, **CSS**, **GIT**.
+- 📫 Cómo contactarme: yaiderc19@gmail.com.
 
 
 <h3 align="left">Languages and Tools:</h3>
