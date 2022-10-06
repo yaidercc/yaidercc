@@ -15,7 +15,7 @@ Desarrollador de software con mas de un año de experiencia en el desarrollo de 
 - 📫 Cómo contactarme: yaiderc19@gmail.com.
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages y Herramientas:</h3>
  <a href="#" target="_blank"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/> 
 </a> 
@@ -40,7 +40,7 @@ Desarrollador de software con mas de un año de experiencia en el desarrollo de 
   <a href="#" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/528/528260.png" alt="php" width="40" height="40"/> </a> 
   <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/602px-Bootstrap_logo.svg.png" alt="php" width="40" height="40"/> </a> 
 </p>
-<h3 align="left">Social networks and portfolios:</h3>
+<h3 align="left">Redes sociales y Portafolios:</h3>
  <a href="https://www.linkedin.com/in/yaidercc/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="nodejs" width="40" height="40"/> </a>  
  <a href="https://dribbble.com/YaiderCc" target="_blank"> <img src="https://seeklogo.com/images/D/dribbble-logo-143FF96D65-seeklogo.com.png" alt="nodejs" width="40" height="40"/> </a>  
 
