@@ -1,6 +1,5 @@
 <p align="center">
-  
-![banner](https://user-images.githubusercontent.com/55888825/192405040-e49c29f3-1de4-4375-9624-54c8af1edb20.png)
+  ![Index – 2](https://user-images.githubusercontent.com/55888825/194396911-0a303c36-6ce6-4dea-aa43-fc9c3470390d.png)
 </p>
 
 
