@@ -1,6 +1,7 @@
 <p align="center">
   
-  ![Index – 2](https://user-images.githubusercontent.com/55888825/194397248-c6268de5-b780-4868-b8ad-6e3c7e2be5cf.png)
+  ![Index – 2](https://user-images.githubusercontent.com/55888825/197339132-74c2e78e-f7ce-45ff-a44d-c1c1467f906f.png)
+
   
 </p>
 
