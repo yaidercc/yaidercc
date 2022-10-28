@@ -6,7 +6,7 @@
 </p>
 
 
-# Hola 👋 Soy Yaider.
+# Hola 👋.
 
 Desarrollador de software con 2 años de experiencia, tiempo en el cual a través del desarrollo y mantenimiento de distintos sitios web he adquirido conocimientos y profundizado en diferentes tecnologías y lenguajes  tanto frontend como backend. Cuento con una buena capacidad de investigacion la cual me ha permitido resolver diversas situaciones problemas y mejorar la calidad de mis desarrollos, añadiendole a esto mi curiosidad y constante busqueda de mejora tanto en el ambito personal como profesional.
 
