@@ -8,7 +8,7 @@
 
 # Hola 👋.
 
-Desarrollador de software con 2 años de experiencia, tiempo en el cual a través del desarrollo y mantenimiento de distintos sitios web he adquirido conocimientos y profundizado en diferentes tecnologías y lenguajes  tanto frontend como backend. Cuento con una buena capacidad de investigacion la cual me ha permitido resolver diversas situaciones problemas y mejorar la calidad de mis desarrollos, añadiendole a esto mi curiosidad y constante busqueda de mejora tanto en el ambito personal como profesional.
+Soy un desarrollador con una capacidad de aprendizaje rápido y una gran curiosidad por conocer nuevas tecnologías y técnicas. Me gusta enseñar y compartir mis conocimientos con otros, y siempre estoy buscando maneras de mejorar mis habilidades y ampliar mi conocimiento. Me gusta trabajar en equipo y colaborar con otros para resolver problemas complejos y encontrar soluciones innovadoras.
 
 
 - 🌱 Actualmente estoy aprendiendo React JS y Node Js
