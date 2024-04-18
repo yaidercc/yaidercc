@@ -22,23 +22,26 @@ Durante mi trayectoria en el desarrollo de software, he tenido la oportunidad de
 
 ⚙️ Con conocimientos en Back-End como:
 
-° NODE
-° EXPRESS
-° JWT
-° TEMPLATE ENGINES
-° SOCKETS
-° NPM
-
+<ul>
+  <li>NODE</li>
+  <li>EXPRESS</li>
+  <li>JWT</li>
+  <li>TEMPLATE ENGINES</li>
+  <li>SOCKETS</li>
+  <li>NPM</li>
+</ul>
 
 🛠️ Con conocimientos en DevOps y bases de datos como:
 
-° DOCKER
-° GIT
-° SQL (incluyendo DML y DDL)
-° NoSQL (MongoDB)
-° MySQL
-° ORACLE (incluyendo PL/SQL)
-° BASH
+<ul>
+  <li>DOCKER</li>
+  <li>SQL (incluyendo DML y DDL)</li>
+  <li>GIT</li>
+  <li>NoSQL (MongoDB)</li>
+  <li>MYSQL</li>
+  <li>ORACLE (incluyendo PL/SQL)</li>
+  <li>BASH</li>
+</ul>
 
 - 📫 Correo de contacto: yaiderc19@gmail.com o yaiderc18@gmail.com
 - 🌐 Tambien puedes revisar mi portafolio: https://yaidercc.netlify.app
