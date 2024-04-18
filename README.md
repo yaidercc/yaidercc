@@ -9,6 +9,8 @@
 # Acerca de mi.
 Durante mi trayectoria en el desarrollo de software, he tenido la oportunidad de aprender de mentores y de forma autodidacta, lo que me ha permitido adquirir experiencia en diversas tecnologías y aplicarlas en diferentes áreas. En proyectos anteriores, he trabajado en estrecha colaboración con clientes para comprender y satisfacer sus necesidades, contribuyendo así a la reducción de la carga de trabajo del equipo. Estoy comprometido a seguir creciendo y aplicando mis habilidades para ofrecer soluciones efectivas en el desarrollo de software.
 
+
+
 🚀 Cuento conocimeintos en Front-End como:
 
 <ul>
