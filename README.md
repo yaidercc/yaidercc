@@ -43,5 +43,4 @@ Durante mi trayectoria en el desarrollo de software, he tenido la oportunidad de
   <li>BASH</li>
 </ul>
 
-- 📫 Correo de contacto: yaiderc19@gmail.com o yaiderc18@gmail.com
-- 🌐 Tambien puedes revisar mi portafolio: https://yaidercc.netlify.app
+📫 Correo de contacto: yaiderc18@gmail.com
