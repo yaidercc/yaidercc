@@ -6,10 +6,38 @@
 </p>
 
 
-# Hola 👋.
+# Acerca de mi.
+Durante mi trayectoria en el desarrollo de software, he tenido la oportunidad de aprender de mentores y de forma autodidacta, lo que me ha permitido adquirir experiencia en diversas tecnologías y aplicarlas en diferentes áreas. En proyectos anteriores, he trabajado en estrecha colaboración con clientes para comprender y satisfacer sus necesidades, contribuyendo así a la reducción de la carga de trabajo del equipo. Estoy comprometido a seguir creciendo y aplicando mis habilidades para ofrecer soluciones efectivas en el desarrollo de software.
 
-Soy un desarrollador con una capacidad de aprendizaje rápido y una gran curiosidad por conocer nuevas tecnologías y técnicas. Me gusta enseñar y compartir mis conocimientos con otros, y siempre estoy buscando maneras de mejorar mis habilidades y ampliar mi conocimiento. Me gusta trabajar en equipo y colaborar con otros para resolver problemas complejos y encontrar soluciones innovadoras.
+🚀 Cuento conocimeintos en Front-End como:
 
+° HTML5
+° CSS3
+° SASS
+° JAVASCRIPT
+° VUE
+° REACT
+
+
+⚙️ Con conocimientos en Back-End como:
+
+° NODE
+° EXPRESS
+° JWT
+° TEMPLATE ENGINES
+° SOCKETS
+° NPM
+
+
+🛠️ Con conocimientos en DevOps y bases de datos como:
+
+° DOCKER
+° GIT
+° SQL (incluyendo DML y DDL)
+° NoSQL (MongoDB)
+° MySQL
+° ORACLE (incluyendo PL/SQL)
+° BASH
 
 - 📫 Correo de contacto: yaiderc19@gmail.com o yaiderc18@gmail.com
 - 🌐 Tambien puedes revisar mi portafolio: https://yaidercc.netlify.app
