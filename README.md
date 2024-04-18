@@ -11,12 +11,13 @@ Durante mi trayectoria en el desarrollo de software, he tenido la oportunidad de
 
 🚀 Cuento conocimeintos en Front-End como:
 
-° HTML5
-° CSS3
-° SASS
-° JAVASCRIPT
-° VUE
-° REACT
+<ul>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>SASS</li>
+  <li>JAVASCRIPT</li>
+  <li>REACT</li>
+</ul>
 
 
 ⚙️ Con conocimientos en Back-End como:
