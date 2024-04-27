@@ -1,6 +1,7 @@
 <p align="center">
   
-  ![Index – 2](https://user-images.githubusercontent.com/55888825/197339132-74c2e78e-f7ce-45ff-a44d-c1c1467f906f.png)
+  ![laptop-keyboard-linkedin-banner-m4igkx4bwsjh9i99](https://github.com/yaidercc/yaidercc/assets/55888825/70efba38-e8e0-4a08-9869-f46e0ea5e259)
+
 
   
 </p>
