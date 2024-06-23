@@ -8,7 +8,7 @@
 
 
 # Acerca de
-Durante mi trayectoria en el desarrollo de software, he tenido la oportunidad de aprender de mentores y de forma autodidacta, lo que me ha permitido adquirir experiencia en diversas tecnologías y aplicarlas en diferentes áreas. En proyectos anteriores, he trabajado en estrecha colaboración con clientes para comprender y satisfacer sus necesidades, contribuyendo así a la reducción de la carga de trabajo del equipo. Estoy comprometido a seguir creciendo y aplicando mis habilidades para ofrecer soluciones efectivas en el desarrollo de software.
+Soy un desarrollador de software y estudiante de Ingeniería de sistemas con dos años de experiencia en el desarrollo de soluciones tanto en frontend como en backend. Mi curiosidad me ha permitido adquirir conocimientos valiosos, y junto con mi responsabilidad y enfoque, he logrado cumplir objetivos de manera efectiva. Me destaco por mi capacidad de aprendizaje empírico y mi adaptabilidad a diferentes entornos y tecnologías. Tengo un enfoque en escribir código limpio y escalable, así como en encontrar soluciones innovadoras a problemas complejos. 
 
 
 
