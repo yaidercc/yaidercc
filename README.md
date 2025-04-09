@@ -8,42 +8,25 @@
 
 
 # Acerca de
-Soy un desarrollador de software y estudiante de Ingeniería de sistemas con dos años de experiencia en el desarrollo de soluciones tanto en frontend como en backend. Mi curiosidad me ha permitido adquirir conocimientos valiosos, y junto con mi responsabilidad y enfoque, he logrado cumplir objetivos de manera efectiva. Me destaco por mi capacidad de aprendizaje empírico y mi adaptabilidad a diferentes entornos y tecnologías. Tengo un enfoque en escribir código limpio y escalable, así como en encontrar soluciones innovadoras a problemas complejos. 
+
+Desarrollador backend con experiencia en la creación de APIs y microservicios, escribiendo código limpio, escalable y mantenible. Implemento buenas prácticas, pruebas automatizadas y principios SOLID para garantizar calidad y eficiencia en cada proyecto.
+
+También tengo conocimientos en React y Vue.js, lo que me permite entender el desarrollo fullstack y facilitar la integración entre frontend y backend. Tengo experiencia en proyectos con arquitecturas monolíticas y distribuidas, utilizando AWS y contenedores para escalabilidad
 
 
+🚀 Conocimientos en Front-End: HTML5, CSS3, TAILWIND, JAVASCRIPT, REACT
 
-🚀 Cuento conocimeintos en Front-End como:
+⚙️ Conocimientos en Back-End: NODE, EXPRESS, JWT, 0AUTH, SOCKETS, KNEX, SWAGGER
 
-<ul>
-  <li>HTML5</li>
-  <li>CSS3</li>
-  <li>SASS</li>
-  <li>JAVASCRIPT</li>
-  <li>REACT</li>
-</ul>
+🎯 Patrones de Diseño & Clean Code: Principios SOLID, TDD, DDD
 
+🧪 Conocimientos en Testing: E2E, UNITARIOS, INTEGRACION utilizando tecnologías como JEST y SUPER TEST
 
-⚙️ Con conocimientos en Back-End como:
+🛠️ Conocimientos en DevOps: DOCKER, GIT, BASH
 
-<ul>
-  <li>NODE</li>
-  <li>EXPRESS</li>
-  <li>JWT</li>
-  <li>TEMPLATE ENGINES</li>
-  <li>SOCKETS</li>
-  <li>NPM</li>
-</ul>
+🛢️Conocimientos en bases de datos: SQL (incluyendo DML, DDL, y PL/SQL), NoSQL (MongoDB), MySQL, ORACLE
 
-🛠️ Con conocimientos en DevOps y bases de datos como:
+☁️ Con conocimientos en Cloud como: AWS (CDK, SAM)
 
-<ul>
-  <li>DOCKER</li>
-  <li>SQL (incluyendo DML y DDL)</li>
-  <li>GIT</li>
-  <li>NoSQL (MongoDB)</li>
-  <li>MYSQL</li>
-  <li>ORACLE (incluyendo PL/SQL)</li>
-  <li>BASH</li>
-</ul>
 
 📫 Correo de contacto: yaiderc18@gmail.com
