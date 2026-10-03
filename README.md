@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yaider Córdoba
 
-I'm a **Backend Developer** with 2+ years of experience building scalable REST APIs and microservices using **Node.js**, **PostgreSQL**, and **TypeScript**.  
+I'm a **Backend Developer** with 3+ years of experience building scalable REST APIs and microservices using **Node.js**, **PostgreSQL**, and **TypeScript**.  
 I focus on writing clean, maintainable code applying **DDD**, **TDD**, and **SOLID principles**, and I enjoy designing systems that are efficient and easy to scale.
 
 🚀 **What I work with:**  
